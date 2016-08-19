@@ -30,6 +30,9 @@ public class Car {
 		System.out.println(car1);
 
 		car1.accelerate();
+		
+		System.out.println(PrimeSum.check(241,1));
+		System.out.println(PrimeSum.check(245,6));
 	}
 
 }
